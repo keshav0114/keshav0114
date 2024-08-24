@@ -6,7 +6,7 @@
 
 - 🌱 Currently, I'm focused on **expanding my expertise in modern front-end technologies and contributing to impactful projects that solve real-world problems.**
 
-- 👯 I’m looking to collaborate on **improving UI/UX designs, optimizing performance, and implementing new features using React.js, Next.js, and Material-UI.**
+- 👯 I’m looking to collaborate on **improving UI/UX designs, optimizing performance, and implementing new features using React.js and Next.js**
 
 - 💬 Ask me about **React.js, Next.js, WebSockets, or anything related to front-end development.**
 
