@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Keshav Arora</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Keshav Arora</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
@@ -6,7 +6,7 @@
 
 - 🌱 Currently, I'm focused on **expanding my expertise in modern front-end technologies and contributing to impactful projects that solve real-world problems.**
 
-- 👯 I’m looking to collaborate on **improving UI/UX designs, optimizing performance, and implementing new features using React.js and Next.js**
+- 👯 I’m looking to collaborate on **improving UI/UX designs, optimizing performance, and implementing new features using React.js and Next.js.**
 
 - 💬 Ask me about **React.js, Next.js, WebSockets, or anything related to front-end development.**
 
